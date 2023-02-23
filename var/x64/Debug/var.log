@@ -1,0 +1,111 @@
+﻿  main.cpp
+  MyString.cpp
+D:\ProjectsC++\var\var\MyString.cpp(6,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\ProjectsC++\var\var\MyString.cpp(94,62): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ProjectsC++\var\var\MyString.cpp(209,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ProjectsC++\var\var\MyString.cpp(229,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ProjectsC++\var\var\MyString.cpp(250,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ProjectsC++\var\var\MyString.cpp(277,48): warning C4244: 'argument': conversion from 'const double' to 'long', possible loss of data
+D:\ProjectsC++\var\var\MyString.cpp(284,70): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ProjectsC++\var\var\MyString.cpp(305,70): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ProjectsC++\var\var\MyString.cpp(326,70): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ProjectsC++\var\var\MyString.cpp(347,70): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ProjectsC++\var\var\MyString.cpp(365,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ProjectsC++\var\var\MyString.cpp(366,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ProjectsC++\var\var\MyString.cpp(379,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ProjectsC++\var\var\MyString.cpp(380,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  var.cpp
+D:\ProjectsC++\var\var\var.cpp(126,41): warning C4244: 'argument': conversion from 'const double' to 'const int', possible loss of data
+D:\ProjectsC++\var\var\var.cpp(162,31): warning C4244: 'argument': conversion from 'const double' to 'const int', possible loss of data
+D:\ProjectsC++\var\var\var.cpp(194,29): warning C4244: 'argument': conversion from 'const double' to 'const int', possible loss of data
+D:\ProjectsC++\var\var\var.cpp(216,36): warning C4244: 'argument': conversion from 'const double' to 'const int', possible loss of data
+D:\ProjectsC++\var\var\var.cpp(705,46): warning C4244: 'argument': conversion from 'const double' to 'const int', possible loss of data
+D:\ProjectsC++\var\var\var.cpp(753,31): warning C4244: 'argument': conversion from 'const double' to 'const int', possible loss of data
+D:\ProjectsC++\var\var\var.cpp(1066,17): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ProjectsC++\var\var\var.cpp(1160,25): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ProjectsC++\var\var\var.cpp(1259,17): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ProjectsC++\var\var\var.cpp(2249,47): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+  Generating Code...
+D:\ProjectsC++\var\var\var.cpp(149): warning C4715: 'var::operator+': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(271): warning C4715: 'var::operator-': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(222): warning C4715: 'operator+': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(164): warning C4715: 'var::operator+': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(196): warning C4715: 'operator+': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(180): warning C4715: 'operator+': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(286): warning C4715: 'var::operator-': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(134): warning C4715: 'var::operator+': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(301): warning C4715: 'var::operator-': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(316): warning C4715: 'operator-': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(331): warning C4715: 'operator-': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(414): warning C4715: 'var::operator*': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(429): warning C4715: 'var::operator*': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(444): warning C4715: 'operator*': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(459): warning C4715: 'operator*': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(556): warning C4715: 'var::operator/': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(399): warning C4715: 'var::operator*': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(573): warning C4715: 'var::operator/': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(588): warning C4715: 'operator/': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(612): warning C4715: 'operator/': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(539): warning C4715: 'var::operator/': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(736): warning C4715: 'var::operator+=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(756): warning C4715: 'var::operator+=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(781): warning C4715: 'var::operator+=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(905): warning C4715: 'var::operator-=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(925): warning C4715: 'var::operator-=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(718): warning C4715: 'var::operator+=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(950): warning C4715: 'var::operator-=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(887): warning C4715: 'var::operator-=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1103): warning C4715: 'var::operator/=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1081): warning C4715: 'var::operator/=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1128): warning C4715: 'var::operator/=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1274): warning C4715: 'var::operator*=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1294): warning C4715: 'var::operator*=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1057): warning C4715: 'var::operator/=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1385): warning C4715: 'var::operator>': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1319): warning C4715: 'var::operator*=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1401): warning C4715: 'var::operator>': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1254): warning C4715: 'var::operator*=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1369): warning C4715: 'var::operator>': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1417): warning C4715: 'var::operator>': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1467): warning C4715: 'var::operator<': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1483): warning C4715: 'var::operator<': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1499): warning C4715: 'var::operator<': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1515): warning C4715: 'var::operator<': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1597): warning C4715: 'var::operator>=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1613): warning C4715: 'var::operator>=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1581): warning C4715: 'var::operator>=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1565): warning C4715: 'var::operator>=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1679): warning C4715: 'var::operator<=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1663): warning C4715: 'var::operator<=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1695): warning C4715: 'var::operator<=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1711): warning C4715: 'var::operator<=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1761): warning C4715: 'var::operator==': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1777): warning C4715: 'var::operator==': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1793): warning C4715: 'var::operator==': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1809): warning C4715: 'var::operator==': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1875): warning C4715: 'var::operator!=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1891): warning C4715: 'var::operator!=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1907): warning C4715: 'var::operator!=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1859): warning C4715: 'var::operator!=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1941): warning C4715: 'operator>': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1958): warning C4715: 'operator>': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1925): warning C4715: 'operator>': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1975): warning C4715: 'operator<': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(1991): warning C4715: 'operator<': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(2008): warning C4715: 'operator<': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(2025): warning C4715: 'operator>=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(2041): warning C4715: 'operator>=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(2075): warning C4715: 'operator<=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(2058): warning C4715: 'operator>=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(2091): warning C4715: 'operator<=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(2108): warning C4715: 'operator<=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(2125): warning C4715: 'operator==': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(2141): warning C4715: 'operator==': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(2158): warning C4715: 'operator==': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(2175): warning C4715: 'operator!=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(2208): warning C4715: 'operator!=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(2191): warning C4715: 'operator!=': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(2225): warning C4715: 'var::operator int': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(2240): warning C4715: 'var::operator double': not all control paths return a value
+D:\ProjectsC++\var\var\var.cpp(2256): warning C4715: 'var::operator char *': not all control paths return a value
+  var.vcxproj -> D:\ProjectsC++\var\x64\Debug\var.exe
